@@ -7,6 +7,9 @@ iFizMat
 </h4>
 <ol>
   <li>
+<a href="./copter/copter2026-154.html" target="_blank">Основы проектирования летательных аппаратов, семестр 9</a>&nbsp;&#151; группа 154, практика. 
+  </li>
+  <li>
 <a href="./devmobile/devmobile2026-144.html" target="_blank">Разработка мобильных приложений</a>&nbsp;&#151; группа 144, семестр 7. 
   </li>
   <li>
