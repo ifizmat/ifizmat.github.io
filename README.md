@@ -5,18 +5,17 @@ iFizMat
 <h4>
 Сайт факультета информатики, физики и математики
 </h4>
+<small>ЕНИО&nbsp;&#151; естественнонаучного и инженерного образования</small>
+<div><strong>ВО&nbsp;&#151; высшее образование</strong></div>
 <ol>
   <li>
-<a href="./copter/copter2026-154.html" target="_blank">Основы проектирования летательных аппаратов, семестр 9</a>&nbsp;&#151; группа 154, практика. 
-  </li>
-  <li>
-<a href="./devmobile/devmobile2026-144.html" target="_blank">Разработка мобильных приложений</a>&nbsp;&#151; группа 144, семестр 7. 
+<a href="./os/os-126-2026-index.html" target="_blank">ОСиО</a>&nbsp;&#151; Операционные системы и оболочки, группа 126, семестр 3, практика. 
   </li>
   <li>
 <a href="./copter/copter2026-126-index.html" target="_blank">Конструирование и программирование БПЛА, семестр 3</a>&nbsp;&#151; группа 126, практика. 
   </li>
   <li>
-<a href="./os/os-126-2026-index.html" target="_blank">ОСиО</a>&nbsp;&#151; Операционные системы и оболочки, группа 126, семестр 3, практика. 
+<a href="./network/ossit2026-index.html" target="_blank">Программное обеспечение систем и сетей, семестр 1</a>&nbsp;&#151; группа 113, практика. 
   </li>
   <li>
 <a href="./inf/inf2026-kgid-python-index.html" target="_blank">Информатика КГиД. Python</a>&nbsp;&#151;  группа 135, семестр 5, практика. 
@@ -25,32 +24,15 @@ iFizMat
 <a href="./webdesign/web2026-kgid-index.html" target="_blank">Веб-дизайн</a>&nbsp;&#151;  группа 135, семестр 5. 
   </li>
   <li>
-<a href="./network/ossit2026-index.html" target="_blank">Программное обеспечение систем и сетей, семестр 1</a>&nbsp;&#151; группа 113, практика. 
+<a href="./devmobile/devmobile2026-144.html" target="_blank">Разработка мобильных приложений</a>&nbsp;&#151; группа 144, семестр 7. 
   </li>
   <li>
-<a href="./csharp-126/csharp-126-2026-index.html" target="_blank">Язык программирования C#, семестр 3</a>&nbsp;&#151; группа 126, практика. 
+<a href="./copter/copter2026-154.html" target="_blank">Основы проектирования летательных аппаратов, семестр 9</a>&nbsp;&#151; группа 154, практика. 
   </li>
-  <li>
-<a href="./copter/copter2026-index.html" target="_blank">Основы управления и программирования БПЛА, семестр 2</a>&nbsp;&#151; группа 314, практика. 
-  </li>
-  <li>
-<a href="./webdesign/web-dev2026-index.html" target="_blank">Введение в Интернет-программирование, семестр 2</a>&nbsp;&#151; группа 116, практика. 
-  </li>
-  <li>
-<a href="./devsecops/devsecops2026-index.html" target="_blank">Основы информационной безопасности (DevSecOps)</a>&nbsp;&#151; практика. 
-  </li>
-  <li>
-<a href="./softdev/softdev2026-index.html" target="_blank">Технология разработки прогаммного обеспечения (ТРПО)</a>&nbsp;&#151; практика. 
-  </li>
-  <li>
-<a href="./inf/inf2026kgid-index.html" target="_blank">Информатика КГиД</a>&nbsp;&#151; группа 125, семестр 4, практика. 
-  </li>
-  <li>
-<a href="./inf/inf2025-index.html" target="_blank">Информатика</a>&nbsp;&#151; практика. 
-  </li>
-  <li>
-<a href="./python/python116/python2025-index.html" target="_blank">Python</a>&nbsp;&#151; Язык программирования Python 2025: группа 116. 
-  </li>
+</ol>
+<hr>
+<div><strong>СПО&nbsp;&#151; среднее профессиональное образование</strong></div>
+<ol>
   <li>
 <a href="./csharp/csharp2024-index.html" target="_blank">C#</a>&nbsp;&#151; Основы алгоритмизации и программирования&nbsp;&#151; практика. 
   </li>
@@ -63,6 +45,79 @@ iFizMat
   <li>
 <a href="./python/python2024-index.html" target="_blank">Python</a>&nbsp;&#151; Разработка программных модулей: практика. 
   </li>
+  <li>
+<a href="./softdev/softdev2026-index.html" target="_blank">Технология разработки прогаммного обеспечения (ТРПО)</a>&nbsp;&#151; практика. 
+  </li>
+  <li>
+<a href="./devsecops/devsecops2026-index.html" target="_blank">Основы информационной безопасности (DevSecOps)</a>&nbsp;&#151; практика. 
+  </li>
+</ol>
+<hr>
+<div><strong>Резервные сайты</strong></div>
+<ol>
+  <li>
+<a href="https://gitflic.ru/user/ifizmat" target="_blank">https://gitflic.ru/user/ifizmat</a> iFizMat&nbsp;&#151;  GitFlic. 
+  </li>
+  <li>
+<a href="http://fb79223v.bget.ru/" target="_blank">fb79223v.bget.ru</a> iFizMat&nbsp;&#151; сайт на web-хостинге beget. 
+  </li>
+  <li>
+<a href="http://ifizmat.blogspot.com/" target="_blank">ifizmat.blogspot.com</a> iFizMat&nbsp;&#151; сайт на сервисе Google Blogger, Google Блоги. 
+  </li>
+  <li>
+<a href="https://sites.google.com/view/ifizmat" target="_blank">sites.google.com/view/ifizmat</a> iFizMat&nbsp;&#151; сайт с адаптивным интерфейсом на сервисе Google Sites, Google Сайты. 
+  </li>
+  <li>
+<a href="https://sites.google.com/site/ifizmat/" target="_blank">sites.google.com/site/ifizmat</a> iFizMat&nbsp;&#151; сайт на сервисе Google Sites, Google Сайты. 
+  </li>
+  <li>
+<a href="https://ifizmat.github.io/index/" target="_blank">https://ifizmat.github.io/index/</a> iFizMat&nbsp;&#151; сайт на web-хостинге github.io. 
+  </li>
+  <li>
+<a href="http://ifizmat.000webhostapp.com/" target="_blank">ifizmat.000webhostapp.com</a> iFizMat&nbsp;&#151; сайт на web-хостинге 000webhostapp. 
+  </li>
+  <li>
+<a href="./webdesign" target="_blank">Example CSS</a>&nbsp;&#151; упражение по Web-дизайну. 
+  </li> 
+  <li>
+<a href="./robotics/turtlecar.htm" target="_blank">Robotics</a>&nbsp;&#151; TurtleCar. 
+  </li>
+  <li>
+<a href="https://telegra.ph/ros-urdf-test01-12-16" target="_blank">Перейти</a>: 
+telegra.ph - ROS URDF test01
+  </li>
+  <li>
+<a href="./devsecops/КорепановТД_СИ141_elibrary.pdf" target="_blank">Перейти</a>: 
+КорепановТД_СИ141_elibrary.pdf
+  </li>
+</ol>
+<hr>
+<div><strong>Архив 2025&nbsp;&#151; 2026 годов</strong></div>
+<ol>
+  <li>
+<a href="./python/python116/python2025-index.html" target="_blank">Python</a>&nbsp;&#151; Язык программирования Python 2025: группа 116. 
+  </li>
+  <li>
+<a href="./csharp-126/csharp-126-2026-index.html" target="_blank">Язык программирования C#, семестр 3</a>&nbsp;&#151; группа 126, практика. 
+  </li>
+  <li>
+<a href="./webdesign/web-dev2026-index.html" target="_blank">Введение в Интернет-программирование, семестр 2</a>&nbsp;&#151; группа 116, практика. 
+  </li>
+  <li>
+<a href="./inf/inf2026kgid-index.html" target="_blank">Информатика КГиД</a>&nbsp;&#151; группа 125, семестр 4, практика. 
+  </li>
+  <li>
+<a href="./copter/copter2026-index.html" target="_blank">Основы управления и программирования БПЛА, семестр 2</a>&nbsp;&#151; группа 314, практика. 
+  </li>
+  <li>
+<a href="./inf/inf2025-index.html" target="_blank">Информатика</a>&nbsp;&#151; группа 115, профиль «Металлургия», практика. 
+  </li>
+</ol>
+<hr>
+<div><strong>Архив до 2025 года</strong></div>
+<br>
+<div><em>Курсы повышения квалификации</em></div>
+<ol>
   <li>
 <a href="https://edu.mipt.ru/adm/nastroiki" target="_blank">МФТИ 3</a>&nbsp;&#151; Код будущего 2026
   </li>
@@ -105,6 +160,13 @@ iFizMat
   <li>
 <a href="https://codemia.uchebny.center" target="_blank">Кодемия</a> Практика и методика подготовки операторов БПЛА
   </li>
+</ol>
+
+<hr>
+<br>
+<div><em>СПО&nbsp;&#151; среднее профессиональное образование</em></div>
+
+<ol>
   <li>
 <a href="./digitalpublic/digit_pub2024-index.html" target="_blank">ЦМИ</a>&nbsp;&#151; Технология хранения, передачи и публикации цифровой мультимедийной информации: практика. 
   </li>
@@ -120,40 +182,5 @@ iFizMat
   <li>
 <a href="./algorithm/theor_alg_lab2020-00index.htm" target="_blank">Теория алгоритмов</a>&nbsp;&#151; практика. 
   </li>
-  <li>
-<a href="https://sites.google.com/site/ifizmat/" target="_blank">sites.google.com/site/ifizmat</a> iFizMat&nbsp;&#151; сайт на сервисе Google Sites, Google Сайты. 
-  </li>
-  <li>
-<a href="http://ifizmat.blogspot.com/" target="_blank">ifizmat.blogspot.com</a> iFizMat&nbsp;&#151; сайт на сервисе Google Blogger, Google Блоги. 
-  </li>
-  <li>
-<a href="http://ifizmat.000webhostapp.com/" target="_blank">ifizmat.000webhostapp.com</a> iFizMat&nbsp;&#151; сайт на web-хостинге 000webhostapp. 
-  </li>
-  <li>
-<a href="http://fb79223v.bget.ru/" target="_blank">fb79223v.bget.ru</a> iFizMat&nbsp;&#151; сайт на web-хостинге beget. 
-  </li>
-  <li>
-<a href="https://ifizmat.github.io/index/" target="_blank">https://ifizmat.github.io/index/</a> iFizMat&nbsp;&#151; сайт на web-хостинге github.io. 
-  </li>
-  <li>
-<a href="https://gitflic.ru/user/ifizmat" target="_blank">https://gitflic.ru/user/ifizmat</a> iFizMat&nbsp;&#151;  GitFlic. 
-  </li>
-  <li>
-<a href="https://sites.google.com/view/ifizmat" target="_blank">sites.google.com/view/ifizmat</a> iFizMat&nbsp;&#151; сайт с адаптивным интерфейсом на сервисе Google Sites, Google Сайты. 
-  </li>
-  <li>
-<a href="./webdesign" target="_blank">Example CSS</a>&nbsp;&#151; упражение по Web-дизайну. 
-  </li> 
-  <li>
-<a href="./robotics/turtlecar.htm" target="_blank">Robotics</a>&nbsp;&#151; TurtleCar. 
-  </li>
-<li>
-<a href="https://telegra.ph/ros-urdf-test01-12-16" target="_blank">Перейти</a>: 
-telegra.ph - ROS URDF test01
-</li>
-<li>
-<a href="./devsecops/КорепановТД_СИ141_elibrary.pdf" target="_blank">Перейти</a>: 
-КорепановТД_СИ141_elibrary.pdf
-</li>
 
 </ol>
