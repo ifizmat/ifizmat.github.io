@@ -9,6 +9,9 @@ iFizMat
 <div><strong>ВО&nbsp;&#151; высшее образование</strong></div>
 <ol>
   <li>
+<a href="./csharp-126/csharp-126-2026-index.html" target="_blank">Язык программирования C#, семестр 3</a>&nbsp;&#151; группа 126, практика. 
+  </li>
+  <li>
 <a href="./os/os-126-2026-index.html" target="_blank">ОСиО</a>&nbsp;&#151; Операционные системы и оболочки, группа 126, семестр 3, практика. 
   </li>
   <li>
@@ -96,9 +99,6 @@ telegra.ph - ROS URDF test01
 <ol>
   <li>
 <a href="./python/python116/python2025-index.html" target="_blank">Python</a>&nbsp;&#151; Язык программирования Python 2025: группа 116. 
-  </li>
-  <li>
-<a href="./csharp-126/csharp-126-2026-index.html" target="_blank">Язык программирования C#, семестр 3</a>&nbsp;&#151; группа 126, практика. 
   </li>
   <li>
 <a href="./webdesign/web-dev2026-index.html" target="_blank">Введение в Интернет-программирование, семестр 2</a>&nbsp;&#151; группа 116, практика. 
